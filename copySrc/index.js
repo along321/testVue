@@ -1,8 +1,6 @@
 import Vue from 'vue';
 import App from './App'//引包
 
-import  './Base.css'
-
 new Vue({
     el: '#root',
     components: {//声明App组件
